@@ -36,4 +36,6 @@ var duration = (fullDuration / parsedRepeatCount);
 
 Console.WriteLine($"Calculated CRC value: {crc}");
 Console.WriteLine($"Full calculation time: {fullDuration}");
-Console.WriteLine($"Average calculation time per one calculation: {duration}");                                                       
+Console.WriteLine($"Average calculation time per one calculation: {duration}");
+
+Console.ReadKey();                                                      
