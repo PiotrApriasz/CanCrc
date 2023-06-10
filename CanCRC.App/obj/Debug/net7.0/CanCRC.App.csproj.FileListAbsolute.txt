@@ -1,0 +1,15 @@
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/bin/Debug/net7.0/CanCRC.App
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/bin/Debug/net7.0/CanCRC.App.deps.json
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/bin/Debug/net7.0/CanCRC.App.runtimeconfig.json
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/bin/Debug/net7.0/CanCRC.App.dll
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/bin/Debug/net7.0/CanCRC.App.pdb
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.csproj.AssemblyReference.cache
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.AssemblyInfoInputs.cache
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.AssemblyInfo.cs
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.csproj.CoreCompileInputs.cache
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.dll
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/refint/CanCRC.App.dll
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.pdb
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/CanCRC.App.genruntimeconfig.cache
+/Users/piotrek/Studia/PW/PS2/SCR/Projekty/CAN/CanCRC/CanCRC.App/obj/Debug/net7.0/ref/CanCRC.App.dll
